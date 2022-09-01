@@ -1,5 +1,5 @@
 {
-    "name": "beluga-php/docker-php",
+    "name": "phillmac/docker-php",
     "license": "MIT",
     "type": "library",
     "description": "A Docker PHP client",
